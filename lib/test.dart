@@ -1,6 +1,7 @@
 void main() {
   String name = 'Test';
-  name = "ss";
+
+  name = name;
 
   unusedFunction(name);
 }
