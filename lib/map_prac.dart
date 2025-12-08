@@ -4,6 +4,6 @@ void main() {
     'xp': 19.99,
     'superpower': false, //
   };
-  var ss = "d";
-  var sss = "";
+
+  print(player);
 }
