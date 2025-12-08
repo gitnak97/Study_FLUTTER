@@ -5,5 +5,5 @@ void main() {
     'superpower': false, //
   };
 
-  print(player);
+  player.length;
 }
