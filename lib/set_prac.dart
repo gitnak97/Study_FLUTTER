@@ -1,8 +1,7 @@
 void main() {
   var numbers = {1, 2, 3, 4};
-  ss.add(1);
+  numbers.add(1);
   numbers.add(2);
   numbers.add(3);
   numbers.add(4);
-  print(numbers);
 }
