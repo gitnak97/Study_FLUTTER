@@ -52,6 +52,7 @@ void main() {
     ..team = 'black'
     ..age = 0
     ..sayHi();
+  hackerman = hackerman;
 
   var player2 = Player(name: 'nico', xp: 1500, team: 'blue', age: 14);
   player2.name = 'dal';
